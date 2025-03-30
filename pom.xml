@@ -33,17 +33,17 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <assertj.version>3.27.3</assertj.version>
-        <duckdb.version>1.2.0</duckdb.version>
-        <guava.version>33.4.0-jre</guava.version>
-        <jackson.version>2.18.2</jackson.version>
-        <jackson.databind.version>2.18.2</jackson.databind.version>
+        <duckdb.version>1.2.1</duckdb.version>
+        <guava.version>33.4.6-jre</guava.version>
+        <jackson.version>2.18.3</jackson.version>
+        <jackson.databind.version>2.18.3</jackson.databind.version>
         <jaxb.version>2.3.1</jaxb.version>
         <junit-jupiter.version>5.11.4</junit-jupiter.version>
-        <kafka.version>3.7.0</kafka.version>
+        <kafka.version>3.9.0</kafka.version>
         <kafka.scala.version>2.13</kafka.scala.version>
-        <kcache.version>5.2.0</kcache.version>
+        <kcache.version>5.2.1</kcache.version>
         <kryo.version>5.6.2</kryo.version>
-        <mockito.version>5.15.2</mockito.version>
+        <mockito.version>5.16.1</mockito.version>
         <picocli-version>4.7.6</picocli-version>
         <proto-google-common-protos.version>2.52.0</proto-google-common-protos.version>
         <protobuf.version>3.25.5</protobuf.version>
@@ -52,9 +52,9 @@
         <scala.version>2.13.16</scala.version>
         <sl4j.version>2.0.16</sl4j.version>
         <sqlline.version>1.12.0</sqlline.version>
-        <schema.registry.version>7.8.1</schema.registry.version>
+        <schema.registry.version>7.9.0</schema.registry.version>
         <vavr.version>0.10.6</vavr.version>
-        <wire.version>5.2.1</wire.version>
+        <wire.version>5.3.1</wire.version>
     </properties>
 
     <repositories>
